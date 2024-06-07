@@ -1,4 +1,4 @@
-## Hello mi name is Sergio Carvajal 👋
+## Hello my name is Sergio Carvajal 👋
 
 
 **SergioC2K/SergioC2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
