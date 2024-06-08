@@ -1,6 +1,6 @@
 # Desarrollador Web
 
-![Imagen de Desarrollador Web]([[https://example.com/imagen-desarrollador-web.jpg](https://imgur.com/a/NTbbmGy)](https://imgur.com/a/NTbbmGy))
+![Imagen de Desarrollador Web](https://imgur.com/iU3DOXr)
 
 ## Introducción
 
