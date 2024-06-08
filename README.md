@@ -4,48 +4,41 @@
 
 ## Introducción
 
-Soy un desarrollador web con experiencia en crear sitios web y aplicaciones interactivas utilizando las últimas tecnologías. Me especializo en HTML, CSS, JavaScript y varios frameworks modernos.
+Soy un desarrollador de software con más de 3 años de experiencia, ofreciendo mis servicios a fábricas de software y outsourcing en la ciudad de Medellín, trabajando en la industria de envíos y transporte de aranceles, chequeos médicos, medición de baterías y generación de reportes.
 
-## Habilidades
+## Lenguajes
 
-- **HTML5**: Maquetación semántica y accesible.
-- **CSS3**: Diseño responsivo y moderno con Flexbox y Grid.
-- **JavaScript**: Programación orientada a objetos, ES6+.
-- **Frameworks**: React, Vue.js, Angular.
-- **Backend**: Node.js, Express, MongoDB.
-- **Herramientas**: Git, Webpack, Docker.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## Experiencia
+## Frameworks
 
-### Desarrollador Frontend en [Nombre de la Empresa] (Año - Año)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-- Desarrollo de interfaces de usuario interactivas y responsivas.
-- Colaboración con diseñadores para mejorar la experiencia del usuario.
-- Optimización de aplicaciones para máximo rendimiento y escalabilidad.
+## Base de Datos
 
-### Desarrollador Full Stack en [Nombre de la Empresa] (Año - Año)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Implementación de soluciones backend utilizando Node.js y Express.
-- Integración de bases de datos NoSQL (MongoDB) para almacenamiento eficiente.
-- Despliegue y mantenimiento de aplicaciones en servidores y servicios en la nube.
 
-## Proyectos
-
-### [Nombre del Proyecto]
-
-Descripción breve del proyecto, tecnologías utilizadas y el resultado obtenido. Incluye enlaces al proyecto en vivo y al repositorio de código si es aplicable.
-
-- **Tecnologías**: React, Node.js, MongoDB
-- **Enlace al Proyecto**: [Ver Proyecto](https://example.com)
-- **Repositorio**: [GitHub](https://github.com/usuario/repositorio)
-
-## Educación
-
-- **Título en Informática** - Universidad [Nombre de la Universidad] (Año - Año)
-- **Certificación en Desarrollo Web** - [Plataforma o Institución] (Año)
 
 ## Contacto
 
-- **Email**: [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn**: [Perfil de LinkedIn](https://linkedin.com/in/tuperfil)
-- **GitHub**: [Perfil de GitHub](https://github.com/tuusuario)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
