@@ -4,7 +4,7 @@
 
 ## Introducción
 
-Soy un desarrollador de software con más de 3 años de experiencia, ofreciendo mis servicios a fábricas de software y outsourcing en la ciudad de Medellín, trabajando en la industria de envíos y transporte de aranceles, chequeos médicos, medición de baterías y generación de reportes.
+I am a software developer with more than 3 years of experience, offering my services to software factories and outsourcing in the city of Medellin, working in the industry of shipping and transportation of tariffs, medical checks, battery measurement and reporting.
 
 ## Lenguajes
 
@@ -40,5 +40,10 @@ Soy un desarrollador de software con más de 3 años de experiencia, ofreciendo 
 
 ## Contacto
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+## Contact Information
+
+- ![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [john.doe@example.com](sergio0725m@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/johndoe]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/))
+- ![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white) [www.johndoeportfolio.com]([http://www.johndoeportfolio.com](https://sergioc2k.github.io/))
+
 
