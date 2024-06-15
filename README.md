@@ -42,8 +42,6 @@ I am a software developer with more than 3 years of experience, offering my serv
 
 ## Contact Information
 
-- ![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [john.doe@example.com](sergio0725m@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/johndoe]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/))
-- ![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white) [www.johndoeportfolio.com]([http://www.johndoeportfolio.com](https://sergioc2k.github.io/))
-
-
+![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [sergio0725m@gmail.com](mailto:sergio0725m@gmail.com)
+![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/](https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/)
+![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white) [https://sergioc2k.github.io/]([http://www.tuportafolio.com](https://sergioc2k.github.io/))
