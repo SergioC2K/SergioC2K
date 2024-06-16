@@ -2,13 +2,13 @@
 
 ![Fondo Linkedin](https://github.com/SergioC2K/SergioC2K/assets/55257936/9b45b0f9-fadc-406f-ae73-caa7292616af)
 
-## About
+## 🛈 About
 
 I am a software developer with more than 3 years of experience, offering my services to software factories and outsourcing in the city of Medellin, working in the industry of shipping and transportation of tariffs, medical checks, battery measurement and reporting.
 
 I have the skills to create user interfaces, develop microservices, manage databases, create stored procedures, generate complex queries, integrate bots with Telegram, create PDFs with JavaScript and Java using native code, develop mobile applications with React Native and Dart, and I am starting to make integrations with artificial intelligence in basic applications.
 
-## Languages
+<h2> 💻 Languages</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@ I have the skills to create user interfaces, develop microservices, manage datab
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## Frameworks
+<h2>⚙️ Frameworks</h2>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -32,7 +32,7 @@ I have the skills to create user interfaces, develop microservices, manage datab
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-## Database
+<h2>⛁ Database</h2>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -41,7 +41,7 @@ I have the skills to create user interfaces, develop microservices, manage datab
 
 
 
-## Contact
+## 📩 Contact
 
 
 <div align='left'>
