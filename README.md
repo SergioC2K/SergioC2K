@@ -1,4 +1,4 @@
-# Desarrollador Web
+# Software Developer
 
 ![Fondo Linkedin](https://github.com/SergioC2K/SergioC2K/assets/55257936/9b45b0f9-fadc-406f-ae73-caa7292616af)
 
@@ -41,10 +41,26 @@ I am a software developer with more than 3 years of experience, offering my serv
 
 
 
-## Contacto
+## Contact
 
-## Contact Information
 
-![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [sergio0725m@gmail.com](mailto:sergio0725m@gmail.com)
-![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/](https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/)
-![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white) [https://sergioc2k.github.io/]([http://www.tuportafolio.com](https://sergioc2k.github.io/))
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/)" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  SergioC2K-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:sergio0725m@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  SergioC2K-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
