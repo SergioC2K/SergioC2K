@@ -1,6 +1,9 @@
 # Desarrollador Web
 
-![Imagen de Desarrollador Web](https://imgur.com/iU3DOXr)
+![Fondo Linkedin](https://github.com/SergioC2K/SergioC2K/assets/55257936/9b45b0f9-fadc-406f-ae73-caa7292616af)
+
+
+
 
 ## Introducción
 
