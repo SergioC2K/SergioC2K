@@ -6,6 +6,8 @@
 
 I am a software developer with more than 3 years of experience, offering my services to software factories and outsourcing in the city of Medellin, working in the industry of shipping and transportation of tariffs, medical checks, battery measurement and reporting.
 
+I have the skills to create user interfaces, develop microservices, manage databases, create stored procedures, generate complex queries, integrate bots with Telegram, create PDFs with JavaScript and Java using native code, develop mobile applications with React Native and Dart, and I am starting to make integrations with artificial intelligence in basic applications.
+
 ## Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
