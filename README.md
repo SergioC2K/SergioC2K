@@ -49,7 +49,7 @@ I am a software developer with more than 3 years of experience, offering my serv
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2/)" target="_blank">
+<a href="https://www.linkedin.com/in/sergio-andres-carvajal-gomez-453a331a2" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  SergioC2K-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
