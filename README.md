@@ -2,14 +2,11 @@
 
 ![Fondo Linkedin](https://github.com/SergioC2K/SergioC2K/assets/55257936/9b45b0f9-fadc-406f-ae73-caa7292616af)
 
-
-
-
-## Introducción
+## About
 
 I am a software developer with more than 3 years of experience, offering my services to software factories and outsourcing in the city of Medellin, working in the industry of shipping and transportation of tariffs, medical checks, battery measurement and reporting.
 
-## Lenguajes
+## Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,7 +29,7 @@ I am a software developer with more than 3 years of experience, offering my serv
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-## Base de Datos
+## Database
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
