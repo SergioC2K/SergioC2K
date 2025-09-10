@@ -4,9 +4,9 @@
 
 ## 🛈 About
 
-<strong>I am a software developer with more than 5 years of experience, offering my services to software factories and outsourcing in the city of Medellin, working in the industry of shipping and transportation of tariffs, medical checks, battery measurement and reporting.</strong>
+<strong>Full Stack Web Developer with extensive experience in front end (Vanilla.js, Angular, React, React Native, Flutter) and backend development (Node.js, Python, Java), specialising in process automation, database optimisation (SQL/NoSQL), and building robust APIs. Skilled in implementing secure and scalable solutions, integrating bots (Telegram), and developing mobile applications. Proficient in vulnerability assessment, performance optimisation, and adopting AI (Python/JavaScript) for technological innovation. Results-driven, with the ability to quickly adapt to new environments and deliver efficient, maintainable code.</strong>
 
-<strong>I have the skills to create user interfaces, develop microservices, manage databases, create stored procedures, generate complex queries, integrate bots with Telegram, create PDFs with JavaScript and Java using native code, develop mobile applications with React Native and Dart, and I am starting to make integrations with artificial intelligence in basic applications.</strong>
+
 
 <h2> 💻 Languages</h2>
 
